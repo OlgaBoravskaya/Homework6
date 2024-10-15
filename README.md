@@ -1,3 +1,3 @@
-#Homework 6 
+#Homework6 
 
 Первый проект на гите
